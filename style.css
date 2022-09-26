@@ -1,0 +1,13 @@
+body{
+    display: flex;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+}
+.foto{
+    width: 40%;
+    margin-left: 20px;
+}
